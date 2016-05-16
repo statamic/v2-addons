@@ -2,6 +2,8 @@
 
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
+- [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
+  _Pulls tagged links from your Pinboard account
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
