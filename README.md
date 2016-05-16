@@ -1,4 +1,4 @@
-# Statamic V2 Addons
+# Statamic v2 Addons
 
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
