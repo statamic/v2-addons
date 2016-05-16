@@ -2,7 +2,7 @@
 
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
-- [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @rudy) 
+- [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @rudy)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
