@@ -10,6 +10,8 @@
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
+- [ParseURL](https://github.com/chris-79/statamic-ParseURL) by Chris S.  
+  _Easily get pieces of a given URL._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
   _just like it sounds... for when you need a random string_
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
