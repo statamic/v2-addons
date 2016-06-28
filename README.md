@@ -12,6 +12,8 @@
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
+- [ParseURL](https://github.com/chris-79/statamic-ParseURL) by Chris S.  
+  _Easily get pieces of a given URL._
 - [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
   _Pulls tagged links from your Pinboard account
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
@@ -26,5 +28,7 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
+- [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
+  _Filter a collection based on entries' arrays of taxonomy IDs._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
