@@ -18,3 +18,5 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
+- [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
+  _Filter a collection based on entries' arrays of taxonomy IDs._
