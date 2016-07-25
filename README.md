@@ -20,6 +20,8 @@
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
   _just like it sounds... for when you need a random string_
+- [Redactor Plugins](https://github.com/lesaff/statamicv2-redactorplugins) by Rudy Affandi  
+  _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
   _Automatically redirects page to its first child._
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
@@ -28,6 +30,8 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
+- [SuggestModes](https://github.com/lesaff/statamic2-suggestmodes) by Rudy Affandi  
+  _A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections)_
 - [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
   _Filter a collection based on entries' arrays of taxonomy IDs._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
