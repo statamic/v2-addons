@@ -6,6 +6,8 @@
   _Cache Manager widget for your V2 dashboard_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
+- [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
+  _Use Google Maps on your site_
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
