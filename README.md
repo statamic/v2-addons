@@ -2,6 +2,9 @@
 
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
+=======
+- [Admission](https://silentzconsulting.com/addons/admission) by Erin Dalzell  
+  _Add paid memberships/subscriptions to your site_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
@@ -12,12 +15,14 @@
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
+- [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell
+  _Subscribes a registering user to a Mailchimp list_
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
 - [ParseURL](https://github.com/chris-79/statamic-ParseURL) by Chris S.  
   _Easily get pieces of a given URL._
 - [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
-  _Pulls tagged links from your Pinboard account
+  _Pulls tagged links from your Pinboard account_
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
