@@ -15,7 +15,7 @@
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
-- [Lynx](https://github.com/mikemartin/lynx) by Mike Martin
+- [Lynx](https://github.com/mikemartin/lynx) by Mike Martin  
   _Modifier to shorten urls using the Bit.ly API._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell
   _Subscribes a registering user to a Mailchimp list_
