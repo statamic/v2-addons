@@ -37,11 +37,11 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
-  - [SVG Output Tag](https://github.com/mikemartin/statamic-svg-output) by Mike Martin  
-    _Render the output of any SVG file in your asset folder using the ID._
+- [SVG Output Tag](https://github.com/mikemartin/statamic-svg-output) by Mike Martin  
+  _Render the output of any SVG file in your asset folder using the ID._
 - [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
   _Filter a collection based on entries' arrays of taxonomy IDs._
-  - [TaxonomySlugFilter](https://github.com/mikemartin/TaxonomySlugFilter) by Mike Martin  
-    _Manually filter a collection by taxonomy slug._
+- [TaxonomySlugFilter](https://github.com/mikemartin/TaxonomySlugFilter) by Mike Martin  
+  _Manually filter a collection by taxonomy slug._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
