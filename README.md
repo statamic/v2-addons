@@ -15,6 +15,8 @@
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
+- [Lynx](https://github.com/mikemartin/lynx) by Mike Martin
+  _Modifier to shorten urls using the Bit.ly API._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell
   _Subscribes a registering user to a Mailchimp list_
 - [Overload](https://github.com/statamic/overload) by Statamic  
@@ -35,7 +37,11 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
+  - [SVG Output Tag](https://github.com/mikemartin/statamic-svg-output) by Mike Martin  
+    _Render the output of any SVG file in your asset folder using the ID._
 - [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
   _Filter a collection based on entries' arrays of taxonomy IDs._
+  - [TaxonomySlugFilter](https://github.com/mikemartin/TaxonomySlugFilter) by Mike Martin  
+    _Manually filter a collection by taxonomy slug._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
