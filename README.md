@@ -5,7 +5,7 @@
 =======
 - [Admission](https://silentzconsulting.com/addons/admission) by Erin Dalzell  
   _Add paid memberships/subscriptions to your site_
-- [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone
+- [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
