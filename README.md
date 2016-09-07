@@ -5,12 +5,16 @@
 =======
 - [Admission](https://silentzconsulting.com/addons/admission) by Erin Dalzell  
   _Add paid memberships/subscriptions to your site_
+- [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone
+  _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
+- [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen
+  _Adds Highligh.js code highlighting to your site_
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
@@ -25,6 +29,8 @@
   _Easily get pieces of a given URL._
 - [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
   _Pulls tagged links from your Pinboard account_
+- [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson
+  _Consume REST services in your templates_
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
