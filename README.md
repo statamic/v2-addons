@@ -13,7 +13,7 @@
   _Add Color picker fieldtype_
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
-- [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen
+- [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
   _Adds Highligh.js code highlighting to your site_
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
@@ -29,12 +29,14 @@
   _Easily get pieces of a given URL._
 - [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
   _Pulls tagged links from your Pinboard account_
-- [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson
+- [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson  
   _Consume REST services in your templates_
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
   _just like it sounds... for when you need a random string_
+- [Redactor Plugins](https://github.com/lesaff/statamicv2-redactorplugins) by Rudy Affandi  
+  _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
   _Automatically redirects page to its first child._
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
@@ -43,6 +45,8 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
+- [SuggestModes](https://github.com/lesaff/statamic2-suggestmodes) by Rudy Affandi  
+  _A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections, Forms, Typeforms)_
 - [SVG Output Tag](https://github.com/mikemartin/statamic-svg-output) by Mike Martin  
   _Render the output of any SVG file in your asset folder using the ID._
 - [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
