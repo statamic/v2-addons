@@ -5,16 +5,22 @@
 =======
 - [Admission](https://silentzconsulting.com/addons/admission) by Erin Dalzell  
   _Add paid memberships/subscriptions to your site_
+- [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
+  _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
+- [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
+  _Adds Highligh.js code highlighting to your site_
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
+- [Lynx](https://github.com/mikemartin/lynx) by Mike Martin  
+  _Modifier to shorten urls using the Bit.ly API._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell
   _Subscribes a registering user to a Mailchimp list_
 - [Overload](https://github.com/statamic/overload) by Statamic  
@@ -23,6 +29,8 @@
   _Easily get pieces of a given URL._
 - [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
   _Pulls tagged links from your Pinboard account_
+- [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson  
+  _Consume REST services in your templates_
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
@@ -38,8 +46,12 @@
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
 - [SuggestModes](https://github.com/lesaff/statamic2-suggestmodes) by Rudy Affandi  
-  _A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections)_
+  _A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections, Forms, Typeforms)_
+- [SVG Output Tag](https://github.com/mikemartin/statamic-svg-output) by Mike Martin  
+  _Render the output of any SVG file in your asset folder using the ID._
 - [TaxonomyFilter](https://github.com/chris-79/statamic-TaxonomyFilter) by Chris S.  
   _Filter a collection based on entries' arrays of taxonomy IDs._
+- [TaxonomySlugFilter](https://github.com/mikemartin/TaxonomySlugFilter) by Mike Martin  
+  _Manually filter a collection by taxonomy slug._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
