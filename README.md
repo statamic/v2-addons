@@ -13,6 +13,8 @@
   _Charge for things on your site, via Stripe_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
+- [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
+  _Modifier to output a number as a currency_
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
 - [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
