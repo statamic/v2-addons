@@ -9,6 +9,8 @@
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
+- [Charge](https://silentzconsulting.com/addons/charge) by Erin Dalzell  
+  _Charge for things on your site, via Stripe_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
@@ -27,7 +29,7 @@
   _CLI commands to create test and sample content._
 - [ParseURL](https://github.com/chris-79/statamic-ParseURL) by Chris S.  
   _Easily get pieces of a given URL._
-- [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell
+- [Pinboard](https://github.com/edalzell/statamic-pinboard) by Erin Dalzell  
   _Pulls tagged links from your Pinboard account_
 - [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson  
   _Consume REST services in your templates_
