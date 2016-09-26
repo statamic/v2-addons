@@ -14,7 +14,7 @@
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
 - [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
-  _Adds Highligh.js code highlighting to your site_
+  _Adds Highlight.js code highlighting to your site_
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
