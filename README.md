@@ -3,14 +3,12 @@
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
 =======
-- [Admission](https://silentzconsulting.com/addons/admission) by Erin Dalzell  
-  _Add paid memberships/subscriptions to your site_
 - [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
 - [Charge](https://silentzconsulting.com/addons/charge) by Erin Dalzell  
-  _Charge for things on your site, via Stripe_
+  _Charge for things, including memberships on your site, via Stripe_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
