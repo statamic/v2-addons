@@ -41,6 +41,8 @@
   _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
   _Automatically redirects page to its first child._
+- [SearchManager](https://github.com/edalzell/statamic-search-manager) by Erin Dalzell  
+  _Widget that can recreate your search index_
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
