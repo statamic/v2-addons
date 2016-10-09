@@ -33,6 +33,8 @@
   _Pulls tagged links from your Pinboard account_
 - [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson  
   _Consume REST services in your templates_
+- [PowerTools](https://github.com/edalzell/statamic-powertools) by Erin Dalzell  
+  _Widget that can recreate your search index & clear your caches_
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
@@ -41,8 +43,6 @@
   _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
   _Automatically redirects page to its first child._
-- [SearchManager](https://github.com/edalzell/statamic-search-manager) by Erin Dalzell  
-  _Widget that can recreate your search index_
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
