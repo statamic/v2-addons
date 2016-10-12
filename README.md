@@ -55,5 +55,7 @@
   _Filter a collection based on entries' arrays of taxonomy IDs._
 - [TaxonomySlugFilter](https://github.com/mikemartin/TaxonomySlugFilter) by Mike Martin  
   _Manually filter a collection by taxonomy slug._
+- [Tel](https://github.com/aryehdesigns/statamic-tel) by Aryeh Raber  
+  _Modifier that converts formatted phone numbers into valid href "tel" strings._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
