@@ -41,6 +41,8 @@
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
   _just like it sounds... for when you need a random string_
+- [Recaptcha](https://github.com/aryehdesigns/statamic-recaptcha) by Aryeh Raber  
+  _Protect your Statamic forms using Google's reCAPTCHA service._
 - [Redactor Plugins](https://github.com/lesaff/statamicv2-redactorplugins) by Rudy Affandi  
   _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
