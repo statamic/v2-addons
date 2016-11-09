@@ -13,6 +13,8 @@
   _Add Color picker fieldtype_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
+- [Fetch](https://github.com/aryehdesigns/statamic-fetch) by Aryeh Raber  
+  _Allows access to collection entries as JSON directly using URL endpoints or via a simple tag._
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
 - [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
