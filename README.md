@@ -13,14 +13,18 @@
   _Add Color picker fieldtype_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
+- [Fetch](https://github.com/aryehdesigns/statamic-fetch) by Aryeh Raber  
+  _Allows access to collection entries as JSON directly using URL endpoints or via a simple tag._
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
 - [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
-  _Adds Highligh.js code highlighting to your site_
+  _Adds Highlight.js code highlighting to your site_
 - [iCal](https://github.com/edalzell/iCal) by Erin Dalzell  
   _Create iCal files so usrs can add events to their calendar_
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
+- [Location](https://github.com/aryehdesigns/statamic-location) by Aryeh Raber  
+  _Fieldtype for finding a location using Google Maps autocomplete._
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
 - [Lynx](https://github.com/mikemartin/lynx) by Mike Martin  
@@ -41,6 +45,8 @@
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
   _just like it sounds... for when you need a random string_
+- [Recaptcha](https://github.com/aryehdesigns/statamic-recaptcha) by Aryeh Raber  
+  _Protect your Statamic forms using Google's reCAPTCHA service._
 - [Redactor Plugins](https://github.com/lesaff/statamicv2-redactorplugins) by Rudy Affandi  
   _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
@@ -59,5 +65,7 @@
   _Filter a collection based on entries' arrays of taxonomy IDs._
 - [TaxonomySlugFilter](https://github.com/mikemartin/TaxonomySlugFilter) by Mike Martin  
   _Manually filter a collection by taxonomy slug._
+- [Tel](https://github.com/aryehdesigns/statamic-tel) by Aryeh Raber  
+  _Modifier that converts formatted phone numbers into valid href "tel" strings._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
