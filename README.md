@@ -59,6 +59,8 @@
   _Automatically redirects page to its first child._
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
+- [Simple Share Url](https://github.com/mvdt/statamic-simpleshareurl) by Matthieu Vu Duy Try  
+  _Add a new configurable Template Tag who generates a sharing URL for Social Networks._
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
