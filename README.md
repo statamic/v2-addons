@@ -31,6 +31,8 @@
   _Modifier to shorten urls using the Bit.ly API._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
+- [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles
+  _Set up and display the Opening Hours of a business_
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
 - [ParseURL](https://github.com/chris-79/statamic-ParseURL) by Chris S.  
