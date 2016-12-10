@@ -7,12 +7,16 @@
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
+- [Charfield](https://github.com/subpixel-ch/statamic-charfield) by subpixel  
+  _Input field that can be limited to a max amount of chars and with visual feedback_
 - [Charge](https://silentzconsulting.com/addons/charge) by Erin Dalzell  
   _Charge for things, including memberships on your site, via Stripe_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
+- [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section)  
+  _Colorize your sections_
 - [Fetch](https://github.com/aryehdesigns/statamic-fetch) by Aryeh Raber  
   _Allows access to collection entries as JSON directly using URL endpoints or via a simple tag._
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
