@@ -35,7 +35,7 @@
   _Modifier to shorten urls using the Bit.ly API._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
-- [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles
+- [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles  
   _Set up and display the Opening Hours of a business_
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
@@ -59,6 +59,8 @@
   _Automatically redirects page to its first child._
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
+- [Sitemap](https://github.com/Marbles/statamic-sitemap) by Marbles  
+  _Automatically add a sitemap to your website based on your published content_
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
