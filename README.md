@@ -13,6 +13,8 @@
   _Charge for things, including memberships on your site, via Stripe_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
+- [Cookie Consent](https://github.com/Marbles/statamic-cookie-consent) by Marbles  
+  _Make your Statamic website comply with the crazy EU cookie law_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
 - [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section)  
