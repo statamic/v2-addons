@@ -13,6 +13,8 @@
   _Charge for things, including memberships on your site, via Stripe_
 - [Color Picker](https://github.com/lesaff/statamic-colorpicker) by Rudy Affandi  
   _Add Color picker fieldtype_
+- [Configurable Composer Manager](https://github.com/JohnathonKoster/statamic-configurable-composer-manager) by John Koster  
+  _Provides a Composer manager that can be configured based on a site's environment. Useful for Windows development._
 - [Cookie Consent](https://github.com/Marbles/statamic-cookie-consent) by Marbles  
   _Make your Statamic website comply with the crazy EU cookie law_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
