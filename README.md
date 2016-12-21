@@ -65,6 +65,8 @@
   _Add Redactor plugins to Statamic v2.x_
 - [Redirect to Child](https://github.com/lesaff/statamicv2-redirecttochild) by Rudy Affandi  
   _Automatically redirects page to its first child._
+- [Route List Command for Statamic](https://github.com/JohnathonKoster/statamic-route-list-command) by John Koster  
+  _Makes Laravel's `route:list` command available for use within the context of your Statamic site._ 
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
 - [Sitemap](https://github.com/Marbles/statamic-sitemap) by Marbles  
