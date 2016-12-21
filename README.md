@@ -39,6 +39,8 @@
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
 - [Lynx](https://github.com/mikemartin/lynx) by Mike Martin  
   _Modifier to shorten urls using the Bit.ly API._
+- [Magpie](https://github.com/JohnathonKoster/magpie-backups-for-statamic) by John Koster  
+  _Command line backup manager for your Statamic sites that integrates with Asset storage containers._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
 - [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles  
