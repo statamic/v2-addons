@@ -19,6 +19,8 @@
   _Make your Statamic website comply with the crazy EU cookie law_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
+- [Disqus](https://github.com/subpixel-ch/statamic-disqus) by subpixel   
+  _Add Disqus comments to your site_
 - [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section)  
   _Colorize your sections_
 - [Fetch](https://github.com/aryehdesigns/statamic-fetch) by Aryeh Raber  
