@@ -77,6 +77,8 @@
   _allows you to do more with groups and roles._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
+- [Statamicbrite](https://github.com/dannyuk1982/Statamicbrite) by Danny Richardson  
+  _Statamic V2 Eventbrite plugin._
 - [SuggestModes](https://github.com/lesaff/statamic2-suggestmodes) by Rudy Affandi  
   _A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections, Forms, Typeforms)_
 - [SVG Output Tag](https://github.com/mikemartin/statamic-svg-output) by Mike Martin  
