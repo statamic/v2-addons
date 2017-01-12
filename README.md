@@ -3,6 +3,8 @@
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
 =======
+- [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell
+  _Prevent spam in your form submissions_
 - [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
