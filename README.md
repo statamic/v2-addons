@@ -39,6 +39,8 @@
   _Adds Highlight.js code highlighting to your site_
 - [iCal](https://github.com/edalzell/iCal) by Erin Dalzell  
   _Create iCal files so usrs can add events to their calendar_
+- [Language Url](https://github.com/bcartier/LangUrl) by Brent Cartier  
+  _Adds `{{ lang_url locale="fr"}} tag to help build a language toggle_ 
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Location](https://github.com/aryehraber/statamic-location) by Aryeh Raber  
