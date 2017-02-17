@@ -3,13 +3,13 @@
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
 =======
-- [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell
+- [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell  
   _Prevent spam in your form submissions_
 - [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
-- [Captain Hook](https://github.com/LionsMouthDigital/Statamic-Captain-Hook) by LionsMouth Digital
+- [Captain Hook](https://github.com/LionsMouthDigital/Statamic-Captain-Hook) by LionsMouth Digital  
   _Simplifies managing webhooks from third-party services_
 - [Charfield](https://github.com/subpixel-ch/statamic-charfield) by subpixel  
   _Input field that can be limited to a max amount of chars and with visual feedback_
@@ -25,8 +25,10 @@
   _Modifier to output a number as a currency_
 - [Disqus](https://github.com/subpixel-ch/statamic-disqus) by subpixel   
   _Add Disqus comments to your site_
-- [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section)  
+- [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section) by subpixel  
   _Colorize your sections_
+- [Favicon](https://github.com/subpixel-ch/statamic-favicon) by subpixel  
+  _Generate beautiful favicons for your statamic page_
 - [Fetch](https://github.com/aryehraber/statamic-fetch) by Aryeh Raber  
   _Allows access to collection entries as JSON directly using URL endpoints or via a simple tag._
 - [Glide Vanity URLs](https://github.com/peda/statamic-glide-vanity-url) by Peter Rainer  
@@ -53,7 +55,7 @@
   _Command line backup manager for your Statamic sites that integrates with Asset storage containers._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
-- [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi)
+- [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi)  
   _Geocodes addresses, will likely do more map stuff later…_
 - [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles  
   _Set up and display the Opening Hours of a business_
