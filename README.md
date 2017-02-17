@@ -3,13 +3,13 @@
 > To add to the list, please create a Pull Request. Keep it alphabetical and in a consistent format.
 
 =======
-- [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell
+- [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell  
   _Prevent spam in your form submissions_
 - [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
   _Cache Manager widget for your V2 dashboard_
-- [Captain Hook](https://github.com/LionsMouthDigital/Statamic-Captain-Hook) by LionsMouth Digital
+- [Captain Hook](https://github.com/LionsMouthDigital/Statamic-Captain-Hook) by LionsMouth Digital  
   _Simplifies managing webhooks from third-party services_
 - [Charfield](https://github.com/subpixel-ch/statamic-charfield) by subpixel  
   _Input field that can be limited to a max amount of chars and with visual feedback_
@@ -55,7 +55,7 @@
   _Command line backup manager for your Statamic sites that integrates with Asset storage containers._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
-- [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi)
+- [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi)  
   _Geocodes addresses, will likely do more map stuff later…_
 - [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles  
   _Set up and display the Opening Hours of a business_
