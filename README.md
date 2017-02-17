@@ -25,8 +25,10 @@
   _Modifier to output a number as a currency_
 - [Disqus](https://github.com/subpixel-ch/statamic-disqus) by subpixel   
   _Add Disqus comments to your site_
-- [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section)  
+- [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section) by subpixel  
   _Colorize your sections_
+- [Favicon](https://github.com/subpixel-ch/statamic-favicon) by subpixel  
+  _Generate beautiful favicons for your statamic page_
 - [Fetch](https://github.com/aryehraber/statamic-fetch) by Aryeh Raber  
   _Allows access to collection entries as JSON directly using URL endpoints or via a simple tag._
 - [Glide Vanity URLs](https://github.com/peda/statamic-glide-vanity-url) by Peter Rainer  
