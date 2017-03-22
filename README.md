@@ -105,3 +105,5 @@
   _Modifier that converts formatted phone numbers into valid href "tel" strings._
 - [User Agent](https://github.com/lesaff/statamic-useragent) by Rudy Affandi  
   _Displays browser user agent information._
+- [Video Embed](https://github.com/jrc9designstudio/statamic-video-embed) by JRC9 Design Studio  
+  _A simple YouTube and Vimeo Embed field_
