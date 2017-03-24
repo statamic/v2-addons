@@ -89,6 +89,8 @@
   _Automatically add a sitemap to your website based on your published content_
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
   _allows you to do more with groups and roles._
+- [Spaceless](https://github.com/marbles/statamic-spaceless) by Marbles  
+  _Remove whitespace between HTML tags._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
 - [Statamicbrite](https://github.com/dannyuk1982/Statamicbrite) by Danny Richardson  
