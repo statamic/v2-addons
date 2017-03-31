@@ -23,6 +23,8 @@
   _Make your Statamic website comply with the crazy EU cookie law_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
+- [DuplicateEntry](https://github.com/dannyuk1982/statamic-DuplicateEntry) by Danny Richardson  
+  _Adds duplicate functionality to the CP_
 - [Disqus](https://github.com/subpixel-ch/statamic-disqus) by subpixel   
   _Add Disqus comments to your site_
 - [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section) by subpixel  
@@ -95,7 +97,7 @@
   _Remove whitespace between HTML tags._
 - [Spock](https://github.com/statamic/spock) by Statamic  
   _Perform commands when content has been published._
-- [Statamicbrite](https://github.com/dannyuk1982/Statamicbrite) by Danny Richardson  
+- [Statamicbrite](https://github.com/pixelprimate/Statamicbrite) by Danny Richardson  
   _Statamic V2 Eventbrite plugin._
 - [SuggestModes](https://github.com/lesaff/statamic2-suggestmodes) by Rudy Affandi  
   _A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections, Forms, Typeforms)_
