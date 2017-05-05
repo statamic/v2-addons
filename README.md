@@ -22,8 +22,8 @@
   _Make your Statamic website comply with the crazy EU cookie law_
 - [Currency](https://github.com/edalzell/Currency) by Erin Dalzell  
   _Modifier to output a number as a currency_
-- [DuplicateEntry](https://github.com/dannyuk1982/statamic-DuplicateEntry) by Danny Richardson  
-  _Adds duplicate functionality to the CP_
+- [Duplicate](https://github.com/dannyuk1982/statamic-Duplicate) by Danny Richardson  
+  _Adds duplication functionality for entries and pages to the CP_
 - [Disqus](https://github.com/subpixel-ch/statamic-disqus) by subpixel   
   _Add Disqus comments to your site_
 - [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section) by subpixel  
