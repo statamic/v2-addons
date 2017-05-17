@@ -88,8 +88,6 @@
   _Makes Laravel's `route:list` command available for use within the context of your Statamic site._ 
 - [Sections](https://github.com/lesaff/statamic-sections) by Rudy Affandi  
   _Add accordion interface to your fieldset sections._
-- [SEO](https://github.com/Marbles/statamic-seo) by Marbles  
-  _A full featured SEO Suite for Statamic_
 - [Sitemap](https://github.com/Marbles/statamic-sitemap) by Marbles  
   _Automatically add a sitemap to your website based on your published content_
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
