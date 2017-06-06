@@ -4,6 +4,8 @@
 
 - [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell  
   _Prevent spam in your form submissions_
+- [BlendidTheme](https://github.com/classyllama/blendid-theme-statamic-addon) by Classy Llama    
+  _Configure rev-manifest.json name and location—useful when using Blendid and Statamic_
 - [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
