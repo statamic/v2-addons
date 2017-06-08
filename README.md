@@ -92,7 +92,7 @@
   _Add accordion interface to your fieldset sections._
 - [Sitemap](https://github.com/Marbles/statamic-sitemap) by Marbles  
   _Automatically add a sitemap to your website based on your published content_
-- [Snip-Snip](https://github.com/iDGS/Statamic-V2-Add-Ons/blob/master/snip-snip) adapted by iDGS  
+- [Snip-Snip](https://github.com/iDGS/Snip-Snip) adapted by iDGS  
   _Truncates content at X number of words (e.g., 50), and closes any open tags_
 - [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) by LionsMouth Digital  
   _allows you to do more with groups and roles._
