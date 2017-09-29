@@ -42,6 +42,8 @@
   _Add Google Analytics support to Statamic 2 and configure tracking from the Control Panel_
 - [Google Maps](https://github.com/krve/statamic-google-maps) by Kristoffer Vestergaard  
   _Use Google Maps on your site_
+- [GTM](https://github.com/robertson-partners/statamic-addon-gtm) by Robertson+Partners
+  _Easily add Google Tag Manager to your site._
 - [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) by Max Westen  
   _Adds Highlight.js code highlighting to your site_
 - [iCal](https://github.com/edalzell/iCal) by Erin Dalzell  
