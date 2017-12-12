@@ -48,14 +48,18 @@
   _Adds Highlight.js code highlighting to your site_
 - [iCal](https://github.com/edalzell/iCal) by Erin Dalzell  
   _Create iCal files so usrs can add events to their calendar_
+- [Impersonator](https://github.com/aryehraber/statamic-impersonator) by Aryeh Raber  
+  _Give Super Admins the ability to authenticate as any user for easier debugging._
 - [Laravel Mix](https://github.com/edcs/laravel-mix-statamic) by Edward Coleridge Smith  
   _Adds `{{ laravel_mix:css }}` and `{{ laravel_mix:js }}` tags so you can use Laravel Mix manifest based asset versioning_ 
 - [Language Url](https://github.com/bcartier/LangUrl) by Brent Cartier  
-  _Adds `{{ lang_url locale="fr"}} tag to help build a language toggle_ 
+  _Adds `{{ lang_url locale="fr"}}` tag to help build a language toggle_ 
 - [Link Active](https://github.com/jackmcdade/statamic-link-active) by Jack McDade  
   _Create link and add `.active` if on that URL_
 - [Location](https://github.com/aryehraber/statamic-location) by Aryeh Raber  
   _Fieldtype for finding a location using Google Maps autocomplete._
+- [Logbook](https://github.com/aryehraber/statamic-logbook) by Aryeh Raber  
+  _View log files in the CP._
 - [Loop](https://github.com/lesaff/Statamic-Loop) by Jason Varga (modified for v2 by @lesaff)  
   _Enables `{{ loop }}` tag pair for iterating a block of code many times._
 - [Lynx](https://github.com/mikemartin/lynx) by Mike Martin  
