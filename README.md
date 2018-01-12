@@ -68,6 +68,8 @@
   _Command line backup manager for your Statamic sites that integrates with Asset storage containers._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
+- [Markdown Cheatsheet](https://github.com/damcclean/statamic-markdowncheatsheet) by Duncan McClean  
+  _Add a Markdown Cheatsheet widget to the Dashboard._
 - [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi)  
   _Geocodes addresses, will likely do more map stuff later…_
 - [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles  
