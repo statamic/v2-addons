@@ -85,7 +85,7 @@
 - [Placid](https://github.com/alecritson/Placid-Statamic) by Alec Ritson  
   _Consume REST services in your templates_
 - [PowerTools](https://github.com/edalzell/statamic-powertools) by Erin Dalzell  
-  _Widget that can recreate your search index & clear your caches_
+  _Widget that allows you to view your PHP info, see your logs, recreate your search index, recreate Glide present, and clear your caches_
 - [Predis](https://github.com/lesaff/statamic-predis) by Rudy Affandi  
   _Enable redis for your V2 sites._
 - [Random String](https://github.com/LionsMouthDigital/Statamic-Random-String) by LionsMouth Digital  
