@@ -74,7 +74,7 @@
   _Set up and display the Opening Hours of a business_
 - [Overload](https://github.com/statamic/overload) by Statamic  
   _CLI commands to create test and sample content._
-- [PageLinks(https://github.com/peda/statamic-page-links) by Peter Rainer
+- [PageLinks](https://github.com/peda/statamic-page-links) by Peter Rainer
   _Add links to internal pages in redactor field types (using the page ID, so the URLs don't break on slug changes)
 - [ParseURL](https://github.com/chris-79/statamic-ParseURL) by Chris S.  
   _Easily get pieces of a given URL._
