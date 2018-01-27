@@ -26,6 +26,8 @@
   _Modifier to output a number as a currency_
 - [Duplicate](https://github.com/dannyuk1982/statamic-Duplicate) by Danny Richardson  
   _Adds duplication functionality for entries and pages to the CP_
+- [Expires On](https://github.com/beckysoll/statamic-expires-on) by Becky Soll   
+  _Modifier that checks for an expiration date, outputs items that don't have one, or that have one which is in the future._
 - [Disqus](https://github.com/subpixel-ch/statamic-disqus) by subpixel   
   _Add Disqus comments to your site_
 - [ExtendedSection](https://github.com/subpixel-ch/statamic-extended_section) by subpixel  
