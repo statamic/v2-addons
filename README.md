@@ -39,6 +39,7 @@
 | [Magpie](https://github.com/JohnathonKoster/magpie-backups-for-statamic) | John Koster | Command line backup manager for your Statamic sites that integrates with Asset storage containers. |
 | [Mailchimp](https://github.com/edalzell/mailchimp) | Erin Dalzell | Subscribes a registering user to a Mailchimp list |
 | [Markdown Cheatsheet](https://github.com/damcclean/statamic-markdowncheatsheet) | Duncan McClean | Add a Markdown Cheatsheet widget to the Dashboard. |
+| [MinifyHTML](https://github.com/4rn0/statamic-minifyhtml) | 4rn0 | Minifies your HTML responses | 
 | [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi) | Geocodes addresses, will likely do more map stuff later… |
 | [Opening Hours](https://github.com/Marbles/statamic-opening-hours) | Marbles | Set up and display the Opening Hours of a business |
 | [Overload](https://github.com/statamic/overload) | Statamic | CLI commands to create test and sample content. |
