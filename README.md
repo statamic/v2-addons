@@ -26,6 +26,7 @@
 | [Google Maps](https://github.com/krve/statamic-google-maps) | Kristoffer Vestergaard | Use Google Maps on your site |
 | [GTM](https://github.com/robertson-partners/statamic-addon-gtm) | Robertson+Partne | Easily add Google Tag Manager to your site. |
 | [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) | Max Westen | Adds Highlight.js code highlighting to your site |
+| [HTML to Markdown](https://github.com/4rn0/statamic-html-to-markdown/) | 4rn0 | CLI Command to convert HTML to Markdown |
 | [iCal](https://github.com/edalzell/iCal) | Erin Dalzell | Create iCal files so usrs can add events to their calendar |
 | [Impersonator](https://github.com/aryehraber/statamic-impersonator) | Aryeh Raber | Give Super Admins the ability to authenticate as any user for easier debugging. |
 | [Laravel Mix](https://github.com/edcs/laravel-mix-statamic) | Edward Coleridge Smith | Adds `{{ laravel_mix:css }}` and `{{ laravel_mix:js }}` tags so you can use Laravel Mix manifest based asset versioning_ |
