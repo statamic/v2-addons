@@ -13,7 +13,6 @@
 | [Charge](https://silentzconsulting.com/addons/charge) | Erin Dalzell | Charge for things, including memberships on your site, via Stripe |
 | [Color Picker](https://github.com/lesaff/statamic-colorpicker) | Rudy Affandi | Add Color picker fieldtype |
 | [Configurable Composer Manager](https://github.com/JohnathonKoster/statamic-configurable-composer-manager) | John Koster | Provides a Composer manager that can be configured based on a site's environment. Useful for Windows development. |
-| [Cookie Consent](https://github.com/Marbles/statamic-cookie-consent) | Marbles | Make your Statamic website comply with the crazy EU cookie law |
 | [Currency](https://github.com/edalzell/Currency) | Erin Dalzell | Modifier to output a number as a currency |
 | [Duplicate](https://github.com/dannyuk1982/statamic-Duplicate) | Danny Richardson | Adds duplication functionality for entries and pages to the CP |
 | [Expires On](https://github.com/beckysoll/statamic-expires-on) | Becky Soll  | Modifier that checks for an expiration date, outputs items that don't have one, or that have one which is in the future. |
@@ -41,7 +40,6 @@
 | [Markdown Cheatsheet](https://github.com/damcclean/statamic-markdowncheatsheet) | Duncan McClean | Add a Markdown Cheatsheet widget to the Dashboard. |
 | [MinifyHTML](https://github.com/4rn0/statamic-minifyhtml) | 4rn0 | Minifies your HTML responses | 
 | [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi) | Geocodes addresses, will likely do more map stuff later… |
-| [Opening Hours](https://github.com/Marbles/statamic-opening-hours) | Marbles | Set up and display the Opening Hours of a business |
 | [Overload](https://github.com/statamic/overload) | Statamic | CLI commands to create test and sample content. |
 | [PageLinks](https://github.com/peda/statamic-page-links) | Peter Rainer | Add links to internal pages in redactor field types (using the page ID, so the URLs don't break on slug changes) |
 | [ParseURL](https://github.com/chris-79/statamic-ParseURL) | Chris S. | Easily get pieces of a given URL. |
@@ -56,10 +54,8 @@
 | [Related Entries Filter](https://github.com/subpixel-ch/statamic-related) | subpixel | Simple filter to show related entries based on tags. |
 | [Route List Command for Statamic](https://github.com/JohnathonKoster/statamic-route-list-command) | John Koster | Makes Laravel's `route:list` command available for use within the context of your Statamic site._ |
 | [Sections](https://github.com/lesaff/statamic-sections) | Rudy Affandi | Add accordion interface to your fieldset sections. |
-| [Sitemap](https://github.com/Marbles/statamic-sitemap) | Marbles | Automatically add a sitemap to your website based on your published content |
 | [Snip-Snip](https://github.com/iDGS/Snip-Snip) adapted by iDGS | Truncates content at X number of words (e.g., 50), and closes any open tags |
 | [Sorting Hat](https://github.com/LionsMouthDigital/Statamic-Sorting-Hat) | LionsMouth Digital | allows you to do more with groups and roles. |
-| [Spaceless](https://github.com/marbles/statamic-spaceless) | Marbles | Remove whitespace between HTML tags. |
 | [Spock](https://github.com/statamic/spock) | Statamic | Perform commands when content has been published. |
 | [Statamicbrite](https://github.com/pixelprimate/Statamicbrite) | Danny Richardson | Statamic V2 Eventbrite plugin. |
 | [SuggestModes](https://github.com/lesaff/statamic2-suggestmodes) | Rudy Affandi | A bunch of useful SuggestMode addons for Statamic v2.x (List of Countries, States/Provinces, Collections, Forms, Typeforms) |
