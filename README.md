@@ -28,6 +28,7 @@
 | [Highlight](https://github.com/mwesten/StatamicV2-Highlight-Addon) | Max Westen | Adds Highlight.js code highlighting to your site |
 | [HTML to Markdown](https://github.com/4rn0/statamic-html-to-markdown/) | 4rn0 | CLI Command to convert HTML to Markdown |
 | [iCal](https://github.com/edalzell/iCal) | Erin Dalzell | Create iCal files so usrs can add events to their calendar |
+| [ImageOptimizer](https://github.com/4rn0/statamic-image-optimizer) | 4rn0 | Optimizes new Asset and Glide images |
 | [Impersonator](https://github.com/aryehraber/statamic-impersonator) | Aryeh Raber | Give Super Admins the ability to authenticate as any user for easier debugging. |
 | [Laravel Mix](https://github.com/edcs/laravel-mix-statamic) | Edward Coleridge Smith | Adds `{{ laravel_mix:css }}` and `{{ laravel_mix:js }}` tags so you can use Laravel Mix manifest based asset versioning_ |
 | [Language Url](https://github.com/bcartier/LangUrl) | Brent Cartier | Adds `{{ lang_url locale="fr"}}` tag to help build a language toggle_ |
