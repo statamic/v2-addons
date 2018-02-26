@@ -5,6 +5,7 @@
 | Addon  | Author      | Description |
 |--------|-------------|-------------|
 | [Akismet](https://silentzconsulting.com/addons/akismet) | Erin Dalzell | Prevent spam in your form submissions |
+| [Anchor Extension](https://github.com/FrittenKeeZ/statamic-anchor-extension) | Frederik Sauer | Extends the default Bard (MediumEditor) anchor functionality with internal links selection. |
 | [BlendidTheme](https://github.com/classyllama/blendid-theme-statamic-addon) | Classy Llama   | Configure rev-manifest.json name and location—useful when using Blendid and Statamic |
 | [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) | Nick Snyder and Mike Ciccone | Pull down a predefined number of tweets from any Twitter user with publicly available tweets |
 | [Cache Manager](https://github.com/lesaff/statamic-cachemanager) | Rudy Affandi | Cache Manager widget for your V2 dashboard |
